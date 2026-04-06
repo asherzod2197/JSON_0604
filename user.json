@@ -1,0 +1,10 @@
+{
+    "user": {
+        "name": "Ali",
+        "address": {
+            "city": "Tashkent",
+            "zip": 100000
+        },
+        "is_student": true
+    }
+}
